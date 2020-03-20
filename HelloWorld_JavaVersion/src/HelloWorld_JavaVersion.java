@@ -7,5 +7,6 @@ public class HelloWorld_JavaVersion
 		System.out.println("Hello World!");
 		System.out.println("Hello World again.");
 		System.out.println("Line 3");
+		System.out.println("Line 4");
 	}
 }
