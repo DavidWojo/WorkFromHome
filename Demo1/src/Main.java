@@ -52,8 +52,5 @@ public class Main
 			System.out.println("String value is: " + s);
 		}
 		System.out.println("There are " + list2.size() + " names in the list.");
-		
-		
-		
 	}
 }
