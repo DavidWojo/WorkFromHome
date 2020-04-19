@@ -80,4 +80,10 @@ public class Main
 		}
 		System.out.println("There are " + list2.size() + " names in the list.");
 	}
+	
+	private static void doStringExample()
+	{
+		String s1 = new String( original: "ttt");
+		
+	}
 }
